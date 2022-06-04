@@ -41,7 +41,7 @@ body{
 	left: 50%;
 	transform: translate(-50%, -50%);
 	font-family: Noto Sans TC;
-	font-display: fallback;
+	font-display: block;
 	font-size: 150%;
 	z-index: 4;
 }
@@ -53,7 +53,7 @@ body{
 	left: 50%;
 	transform: translate(-50%, -50%);
 	font-family: Noto Sans TC;
-	font-display: fallback;
+	font-display: block;
 	font-size: 170%;
 	z-index: 4;
 }
