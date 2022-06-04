@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/earlyaccess/notosanstc.css);
+
 #bomb {
 	display: block;
 	margin: auto;
@@ -38,8 +40,9 @@ body{
 	text-align: center;
 	left: 50%;
 	transform: translate(-50%, -50%);
-	font-family: 標楷體;
-	font-size: 160%;
+	font-family: Noto Sans TC;
+	font-display: fallback;
+	font-size: 150%;
 	z-index: 4;
 }
 
@@ -49,8 +52,9 @@ body{
 	text-align: center;
 	left: 50%;
 	transform: translate(-50%, -50%);
-	font-family: 標楷體;
-	font-size: 180%;
+	font-family: Noto Sans TC;
+	font-display: fallback;
+	font-size: 170%;
 	z-index: 4;
 }
 
